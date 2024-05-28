@@ -15,8 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 @WebServlet("/Servlet3")
 public class ProfileServlet extends HttpServlet {
-	private static final long serialVersionUID = 1L;
-       
+	private static final long serialVersionUID = 1L; 
     /**
      * @see HttpServlet#HttpServlet()
      */
